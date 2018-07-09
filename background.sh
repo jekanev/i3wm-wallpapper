@@ -74,4 +74,5 @@ eval "${num4[$sM]}"
 `composite -blend 50 /tmp/hour.gif /tmp/min.gif /tmp/clock.gif`
 
 feh --bg-scale /tmp/clock.gif
+
  do sleep 60; done
